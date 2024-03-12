@@ -1,0 +1,7 @@
+SELECT TOP (1000) [ID]
+      ,[Nume]
+      ,[Prenume]
+      ,[Varsta]
+      ,[Adresa]
+      ,[Orasul]
+  FROM [Persoane].[dbo].[DetaliiPersoane]
